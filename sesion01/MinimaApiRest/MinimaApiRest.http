@@ -1,0 +1,60 @@
+@MinimaApiRest_HostAddress = http://localhost:5170
+
+### Ejemplo usando verbo
+POST {{MinimaApiRest_HostAddress}}/createUser/
+Accept: application/json
+
+### Ejemplo sin usar verbo
+POST {{MinimaApiRest_HostAddress}}/user/
+Accept: application/json
+
+### Ejemplo sin body
+POST {{MinimaApiRest_HostAddress}}/beers/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "Name": ""
+}
+
+### Ejemplo sin body
+POST {{MinimaApiRest_HostAddress}}/beers/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "Name": "Cristal"
+}
+
+### Variables para prueba concurrencia
+@blocking = {{MinimaApiRest_HostAddress}}/beers
+@async = {{MinimaApiRest_HostAddress}}/wines
+
+### Ejecutar peticiones bloqueantes
+POST {{blocking}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "Name": "Trujillo"
+}
+
+
+### Ejecutar peticiones no bloqueantes
+POST {{async}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "Name": "Trujillo"
+}
+
+###
+
+POST {{async}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "Name": "Corona"
+}

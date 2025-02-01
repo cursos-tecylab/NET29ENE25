@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5vedvffAyGE=",
+  "success": true,
+  "projectFilePath": "D:\\Git\\202501_NetCloud\\sesion01\\MinimaApiRest\\MinimaApiRest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

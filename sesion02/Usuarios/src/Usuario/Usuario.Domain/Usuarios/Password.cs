@@ -1,4 +1,4 @@
-namespace Usuario.Domain.Usuario;
+namespace Usuario.Domain.Usuarios;
 
 public record Password
 {

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N/mFVWgIHSN+qpIFbLLcftLMB92oABHr78k/RfnBFMg=",
+  "Source": "Usuarios.Api",
+  "BasePath": "_content/Usuarios.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

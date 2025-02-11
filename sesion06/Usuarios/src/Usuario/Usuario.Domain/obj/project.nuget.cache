@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1b8EMMk7ZJk=",
+  "success": true,
+  "projectFilePath": "D:\\Git\\NET29ENE25\\sesion06\\Usuarios\\src\\Usuario\\Usuario.Domain\\Usuario.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

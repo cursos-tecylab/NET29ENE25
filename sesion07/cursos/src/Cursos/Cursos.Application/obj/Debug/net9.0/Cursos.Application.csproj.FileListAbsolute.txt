@@ -1,0 +1,16 @@
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\bin\Debug\net9.0\Cursos.Application.deps.json
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\bin\Debug\net9.0\Cursos.Application.dll
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\bin\Debug\net9.0\Cursos.Application.pdb
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\bin\Debug\net9.0\Cursos.Domain.dll
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\bin\Debug\net9.0\Cursos.Domain.pdb
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\Cursos.Application.csproj.AssemblyReference.cache
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\Cursos.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\Cursos.Application.AssemblyInfoInputs.cache
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\Cursos.Application.AssemblyInfo.cs
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\Cursos.Application.csproj.CoreCompileInputs.cache
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\Cursos.Application.sourcelink.json
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\Cursos.A.4E10E657.Up2Date
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\Cursos.Application.dll
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\refint\Cursos.Application.dll
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\Cursos.Application.pdb
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Application\obj\Debug\net9.0\ref\Cursos.Application.dll

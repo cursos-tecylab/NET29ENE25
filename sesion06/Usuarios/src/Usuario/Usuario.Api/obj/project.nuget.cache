@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d+LU+7tacxw=",
+  "dgSpecHash": "1xdsTl6Pk7U=",
   "success": true,
-  "projectFilePath": "d:\\Git\\NET29ENE25\\sesion06\\Usuarios\\src\\Usuario\\Usuario.Api\\Usuarios.Api.csproj",
+  "projectFilePath": "D:\\Git\\NET29ENE25\\sesion06\\Usuarios\\src\\Usuario\\Usuario.Api\\Usuarios.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

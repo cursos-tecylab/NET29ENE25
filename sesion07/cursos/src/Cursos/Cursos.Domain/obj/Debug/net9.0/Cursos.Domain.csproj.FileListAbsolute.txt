@@ -1,0 +1,12 @@
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\bin\Debug\net9.0\Cursos.Domain.deps.json
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\bin\Debug\net9.0\Cursos.Domain.dll
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\bin\Debug\net9.0\Cursos.Domain.pdb
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\obj\Debug\net9.0\Cursos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\obj\Debug\net9.0\Cursos.Domain.AssemblyInfoInputs.cache
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\obj\Debug\net9.0\Cursos.Domain.AssemblyInfo.cs
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\obj\Debug\net9.0\Cursos.Domain.csproj.CoreCompileInputs.cache
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\obj\Debug\net9.0\Cursos.Domain.sourcelink.json
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\obj\Debug\net9.0\Cursos.Domain.dll
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\obj\Debug\net9.0\refint\Cursos.Domain.dll
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\obj\Debug\net9.0\Cursos.Domain.pdb
+D:\Git\NET29ENE25\sesion07\cursos\src\Cursos\Cursos.Domain\obj\Debug\net9.0\ref\Cursos.Domain.dll

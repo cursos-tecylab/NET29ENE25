@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wSc7FBvNw1o=",
+  "dgSpecHash": "4WH3lj9OdAc=",
   "success": true,
-  "projectFilePath": "d:\\Git\\NET29ENE25\\sesion06\\Usuarios\\src\\Usuario\\Usuario.Infrastructure\\Usuario.Infrastructure.csproj",
+  "projectFilePath": "D:\\Git\\NET29ENE25\\sesion06\\Usuarios\\src\\Usuario\\Usuario.Infrastructure\\Usuario.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\efcore.namingconventions\\9.0.0\\efcore.namingconventions.9.0.0.nupkg.sha512",

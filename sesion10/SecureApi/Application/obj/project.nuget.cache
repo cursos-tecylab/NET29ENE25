@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "27rc4Bxhoc8=",
+  "success": true,
+  "projectFilePath": "/Users/poolcamacho/Desktop/SecureApi/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

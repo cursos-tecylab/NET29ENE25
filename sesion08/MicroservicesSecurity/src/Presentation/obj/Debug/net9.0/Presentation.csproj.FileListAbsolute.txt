@@ -1,0 +1,11 @@
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/bin/Debug/net9.0/Presentation.deps.json
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/bin/Debug/net9.0/Presentation.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/bin/Debug/net9.0/Presentation.pdb
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/obj/Debug/net9.0/Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/obj/Debug/net9.0/Presentation.AssemblyInfoInputs.cache
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/obj/Debug/net9.0/Presentation.AssemblyInfo.cs
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/obj/Debug/net9.0/Presentation.csproj.CoreCompileInputs.cache
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/obj/Debug/net9.0/Presentation.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/obj/Debug/net9.0/refint/Presentation.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/obj/Debug/net9.0/Presentation.pdb
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Presentation/obj/Debug/net9.0/ref/Presentation.dll

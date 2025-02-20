@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "R14dqF5A9Gw=",
+  "success": true,
+  "projectFilePath": "/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.configuration/9.0.2/microsoft.extensions.configuration.9.0.2.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.2/microsoft.extensions.configuration.abstractions.9.0.2.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.configuration.fileextensions/9.0.2/microsoft.extensions.configuration.fileextensions.9.0.2.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.configuration.json/9.0.2/microsoft.extensions.configuration.json.9.0.2.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.2/microsoft.extensions.fileproviders.abstractions.9.0.2.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.2/microsoft.extensions.fileproviders.physical.9.0.2.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.2/microsoft.extensions.filesystemglobbing.9.0.2.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0/microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.extensions.primitives/9.0.2/microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.identitymodel.abstractions/8.5.0/microsoft.identitymodel.abstractions.8.5.0.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.5.0/microsoft.identitymodel.jsonwebtokens.8.5.0.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.identitymodel.logging/8.5.0/microsoft.identitymodel.logging.8.5.0.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/microsoft.identitymodel.tokens/8.5.0/microsoft.identitymodel.tokens.8.5.0.nupkg.sha512",
+    "/Users/poolcamacho/.nuget/packages/system.identitymodel.tokens.jwt/8.5.0/system.identitymodel.tokens.jwt.8.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

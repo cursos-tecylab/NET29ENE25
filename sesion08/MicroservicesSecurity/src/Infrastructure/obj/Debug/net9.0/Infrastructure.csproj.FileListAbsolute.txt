@@ -1,0 +1,15 @@
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/bin/Debug/net9.0/Infrastructure.deps.json
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/bin/Debug/net9.0/Infrastructure.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/bin/Debug/net9.0/Infrastructure.pdb
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/bin/Debug/net9.0/Domain.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/bin/Debug/net9.0/Domain.pdb
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/Infrastr.15EFFBFE.Up2Date
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/Infrastructure.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll

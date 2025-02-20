@@ -1,0 +1,11 @@
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/bin/Debug/net9.0/Domain.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/obj/Debug/net9.0/Domain.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/poolcamacho/Desktop/proyecto-net/MicroservicesSecurity/src/Domain/obj/Debug/net9.0/ref/Domain.dll

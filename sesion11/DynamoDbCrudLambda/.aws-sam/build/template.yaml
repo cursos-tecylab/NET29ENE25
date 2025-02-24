@@ -1,0 +1,74 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: 'Sample SAM Template with Powertools for AWS Lambda (.NET) for dynamodbcrudlambda
+
+  '
+Globals:
+  Function:
+    Timeout: 10
+    MemorySize: 512
+    Runtime: dotnet8
+    Tracing: Active
+    LoggingConfig:
+      LogFormat: JSON
+  Api:
+    OpenApiVersion: 3.0.1
+    TracingEnabled: true
+Resources:
+  HelloWorldFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: DynamoDbCrudLambda::DynamoDbCrudLambda.Function::FunctionHandler
+      CodeUri: HelloWorldFunction
+      Description: Hello World function w/ Powertools for AWS Lambda (.NET)
+      Architectures:
+      - x86_64
+      Tracing: Active
+      Events:
+        DynamoDbCrudLambda:
+          Type: Api
+          Properties:
+            Path: /hello
+            Method: get
+      Environment:
+        Variables:
+          POWERTOOLS_SERVICE_NAME: PowertoolsHelloWorld
+          POWERTOOLS_LOG_LEVEL: Info
+          POWERTOOLS_LOGGER_CASE: PascalCase
+          POWERTOOLS_TRACER_CAPTURE_RESPONSE: true
+          POWERTOOLS_TRACER_CAPTURE_ERROR: true
+          POWERTOOLS_METRICS_NAMESPACE: dynamodbcrudlambda
+      Tags:
+        LambdaPowertools: dotnet
+    Metadata:
+      SamResourceId: HelloWorldFunction
+  ApplicationResourceGroup:
+    Type: AWS::ResourceGroups::Group
+    Properties:
+      Name:
+        Fn::Sub: ApplicationInsights-SAM-${AWS::StackName}
+      ResourceQuery:
+        Type: CLOUDFORMATION_STACK_1_0
+  ApplicationInsightsMonitoring:
+    Type: AWS::ApplicationInsights::Application
+    Properties:
+      ResourceGroupName:
+        Ref: ApplicationResourceGroup
+      AutoConfigurationEnabled: 'true'
+Outputs:
+  HelloWorldApi:
+    Description: API Gateway endpoint URL for Prod stage for Hello World function
+    Value:
+      Fn::Sub: https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/hello/
+  HelloWorldFunction:
+    Description: Hello World Lambda Function ARN
+    Value:
+      Fn::GetAtt:
+      - HelloWorldFunction
+      - Arn
+  HelloWorldFunctionIamRole:
+    Description: Implicit IAM Role created for Hello World function
+    Value:
+      Fn::GetAtt:
+      - HelloWorldFunctionRole
+      - Arn

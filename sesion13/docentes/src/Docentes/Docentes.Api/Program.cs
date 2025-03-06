@@ -33,10 +33,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.ApplyMigrations();
+await app.ApplyMigrations();
 
 app.UseCustomExceptionHandler();
 
 app.MapControllers();
 
-app.Run();
+await app.RunAsync();

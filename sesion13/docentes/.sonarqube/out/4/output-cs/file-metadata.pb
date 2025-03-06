@@ -1,0 +1,17 @@
+i
+`D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\ApplicationDbContext.csutf-8Ç
+yD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Configurations\CursosImpartidosConfigurations.csutf-8y
+pD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Configurations\DocenteConfigurations.csutf-8h
+_D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\DependencyInjection.csutf-8|
+sD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Migrations\20240625225153_InitialCreate.csutf-8á
+|D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Migrations\20240625225153_InitialCreate.Designer.csutf-8É
+xD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Migrations\ApplicationDbContextModelSnapshot.csutf-8z
+qD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Repositories\CursoImpartidoRepository.csutf-8s
+jD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Repositories\DocenteRepository.csutf-8l
+cD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Repositories\Repository.csutf-8j
+aD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Services\CacheService.csutf-8k
+bD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Services\CursosService.csutf-8l
+cD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\Services\UsuarioService.csutf-8è
+ÉD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.GlobalUsings.g.csutf-8î
+àD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8ç
+ÅD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Infrastructure\obj\Debug\net8.0\Docentes.Infrastructure.AssemblyInfo.csutf-8

@@ -1,0 +1,10 @@
+r
+iD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.api\Controllers\Docentes\CrearDocenteRequest.csutf-8p
+gD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.api\Controllers\Docentes\DocenteController.csutf-8q
+hD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.api\Extensions\ApplicationBuilderExtensions.csutf-8p
+gD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.api\Middleware\ExceptionHandlingMiddleware.csutf-8Q
+HD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.api\Program.csutf-8x
+mD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.GlobalUsings.g.csutf-8ˆ
+}D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8v
+kD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.AssemblyInfo.csutf-8‰
+~D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.api\obj\Debug\net8.0\Docentes.api.MvcApplicationPartsAssemblyInfo.csutf-8

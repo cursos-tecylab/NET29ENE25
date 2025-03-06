@@ -1,0 +1,13 @@
+`
+WD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Abstractions\Entity.csutf-8_
+VD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Abstractions\Error.csutf-8e
+\D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Abstractions\IUnitOfWork.csutf-8`
+WD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Abstractions\Result.csutf-8l
+cD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\CursosImpartidos\CursoImpartido.csutf-8w
+nD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\CursosImpartidos\ICursoImpartidoRepository.csutf-8]
+TD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Docentes\Docente.csutf-8c
+ZD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Docentes\DocenteErrors.csutf-8h
+_D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Docentes\IDocenteRepository.csutf-8~
+sD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\obj\Debug\net8.0\Docentes.Domain.GlobalUsings.g.csutf-8Œ
+€D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8|
+qD:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\obj\Debug\net8.0\Docentes.Domain.AssemblyInfo.csutf-8

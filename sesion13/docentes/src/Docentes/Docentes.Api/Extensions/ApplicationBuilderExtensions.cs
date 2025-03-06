@@ -6,7 +6,7 @@ namespace Docentes.Api.Extensions;
 
 public static class ApplicationBuilderExtensions
 {
-    public static async void ApplyMigrations(this IApplicationBuilder app)
+    public static async Task ApplyMigrations(this IApplicationBuilder app)
     {
         using(var scope = app.ApplicationServices.CreateScope())
         {

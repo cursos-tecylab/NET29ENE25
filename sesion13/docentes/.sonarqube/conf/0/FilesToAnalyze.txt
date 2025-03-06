@@ -1,0 +1,9 @@
+﻿D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Abstractions\Entity.cs
+D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Abstractions\Error.cs
+D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Abstractions\IUnitOfWork.cs
+D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Abstractions\Result.cs
+D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\CursosImpartidos\CursoImpartido.cs
+D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\CursosImpartidos\ICursoImpartidoRepository.cs
+D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Docentes\Docente.cs
+D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Docentes\DocenteErrors.cs
+D:\Git\NET29ENE25\sesion13\docentes\src\Docentes\Docentes.Domain\Docentes\IDocenteRepository.cs
